@@ -3,7 +3,7 @@ Welcome to xypher-core! This repository serves as the heart of the xypherAI ecos
 xypher-core
 
 
-#Features
+# Features
 
 Centralized Ecosystem Management: Integrates all other repositories into a cohesive system.
 
@@ -13,13 +13,13 @@ State-of-the-Art Architecture: Ensures stability and high performance.
 
 #Getting Started
 
-#Installation
+# Installation
 
-#Clone this repository:
+# Clone this repository:
 
 git clone https://github.com/xypherAI/xypher-core.git
 
-#Navigate to the project directory:
+# Navigate to the project directory:
 
 cd xypher-core
 
@@ -27,13 +27,13 @@ cd xypher-core
 
 npm install
 
-#Usage
+# Usage
 
 Start the core system with the following command:
 
 npm start
 
-#Contribution Guidelines
+# Contribution Guidelines
 
 We welcome contributions to improve xypher-core! Please follow these steps:
 
