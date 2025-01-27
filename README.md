@@ -46,3 +46,5 @@ Commit your changes (git commit -m "Added new feature").
 Push your branch (git push origin feature-name).
 
 Submit a pull request.
+
+# Stay tuned for updates as we continue to enhance the xypher-core platform!
